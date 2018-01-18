@@ -1,0 +1,7 @@
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\bin\Debug\ContiguousNumbers.Simple.exe.config
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\bin\Debug\ContiguousNumbers.Simple.exe
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\bin\Debug\ContiguousNumbers.Simple.pdb
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\obj\Debug\ContiguousNumbers.Simple.csprojResolveAssemblyReference.cache
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\obj\Debug\ContiguousNumbers.Simple.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\obj\Debug\ContiguousNumbers.Simple.exe
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\ContiguousNumbers.Simple\obj\Debug\ContiguousNumbers.Simple.pdb

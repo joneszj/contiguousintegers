@@ -1,0 +1,8 @@
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\bin\Debug\ConsoleApplication1.exe
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\bin\Debug\ConsoleApplication1.pdb
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\bin\Debug\System.ValueTuple.dll
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\bin\Debug\System.ValueTuple.xml
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\obj\Debug\ContiguousNumbers.Contrived.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\obj\Debug\ConsoleApplication1.exe
+C:\Users\laptop\Downloads\ContiguousNumbers\ContiguousNumbers\obj\Debug\ConsoleApplication1.pdb
